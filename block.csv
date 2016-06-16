@@ -1,6 +1,6 @@
 ! Title: Stahl's shared block list
 ! Expires: 1 days
-! Version: 4
+! Version: 5
 ! Last Modified: 2016-06-16
 
 ! Politiken
@@ -15,9 +15,11 @@ www.version2.dk##.adblock-message-container
 www.version2.dk##.adblock-message-overlay
 www.version2.dk##.cookie-accept-overlay
 
-! SE og HØR
+! Emediate
+*/emediate.js*
 ad1.emediate.dk
-allercdn.net/randomurl.js*
+ad1.emediate.se
+ad2.emediate.se
 
-! Berlingske
-www.b.dk/sites/all/modules/custom/emediate/emediate.js?*
+! Aller (SE og HØR)
+allercdn.net/randomurl.js*
