@@ -14,11 +14,19 @@ ekstrabladet.dk/template/*/shared/js/modules/eboverlay/*
 www.version2.dk##.adblock-message-container
 www.version2.dk##.adblock-message-overlay
 www.version2.dk##.cookie-accept-overlay
+www.version2.dk###mini-panel-frontpage_top > .sidebar.panel-col-last.panel-panel
+www.version2.dk###mini-panel-advertorial_zone > .three-items.advertorial-pane.has-gutter.container
+www.version2.dk###mini-panel-jobfinder_front
 
 ! Ingeniøren
 ing.dk##.adblock-message-container
 ing.dk##.adblock-message-overlay
 ing.dk##.cookie-accept-overlay
+ing.dk###mini-panel-frontpage_top > .sidebar.panel-col-last.panel-panel > div:nth-of-type(4) > .fast-track-frontpage
+ing.dk###mini-panel-frontpage_top > .sidebar.panel-col-last.panel-panel > .element.with-border.sidebar-list.jobs-list
+ing.dk###mini-panel-advertorial_zone > .advertorial-pane.has-gutter.container
+ing.dk###mini-panel-job_and_career
+ing.dk###main > .panels-onecol-clean > .colored-header.mini-panel-insights_frontpage.container.section.clearfix.panel-3col-33-stacked.panel-display
 
 ! Emediate
 */emediate.js*
