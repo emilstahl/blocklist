@@ -1,6 +1,6 @@
 ! Title: Stahl's shared block list
 ! Expires: 1 days
-! Version: 7
+! Version: 8
 ! Last Modified: 2016-06-18
 
 ! Politiken
@@ -36,3 +36,6 @@ ad2.emediate.se
 
 ! Aller (SE og HØR)
 allercdn.net/randomurl.js*
+
+! Facebook Ads (on other websites)
+www.facebook.com/adnw_request
