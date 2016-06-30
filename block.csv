@@ -1,10 +1,11 @@
 ! Title: Stahl's shared block list
 ! Expires: 1 days
-! Version: 8
-! Last Modified: 2016-06-18
+! Version: 9
+! Last Modified: 2016-06-30
 
 ! Politiken
 politiken.dk/static/content/js/ads.js
+##.*.dit-modal-overlay
 
 ! Ekstra Bladet
 ekstrabladet.dk/template/v5-6/shared/js/build/every.page.min.js
