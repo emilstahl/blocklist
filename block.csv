@@ -6,6 +6,7 @@
 ! Politiken
 politiken.dk/static/content/js/ads.js
 ##.*.dit-modal-overlay
+||politiken.dk/bruger/AdblockBlocker/?*
 
 ! Ekstra Bladet
 ekstrabladet.dk##div[style*="99799"]
