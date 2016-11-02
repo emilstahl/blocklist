@@ -1,7 +1,7 @@
 ! Title: Stahl's shared block list
 ! Expires: 1 days
-! Version: 12
-! Last Modified: 2016-10-26
+! Version: 13
+! Last Modified: 2016-11-02
 
 ! Politiken
 politiken.dk/static/content/js/ads.js
@@ -16,11 +16,11 @@ eb.dk##div[style*="99799"]
 www.version2.dk##.adblock-message-container
 www.version2.dk##.adblock-message-overlay
 www.version2.dk##.cookie-accept-overlay
-www.version2.dk###mini-panel-frontpage_top > .sidebar.panel-col-last.panel-panel
-www.version2.dk###mini-panel-advertorial_zone
 www.version2.dk###mini-panel-sponsored_content
+www.version2.dk###mini-panel-advertorial_zone
 www.version2.dk###mini-panel-jobfinder_front
 www.version2.dk###chartbeat-articles
+www.version2.dk###mini-panel-frontpage_top > .sidebar.panel-col-last.panel-panel
 
 ! Ingeniøren
 ing.dk##.adblock-message-container
