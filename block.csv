@@ -1,7 +1,7 @@
 ! Title: Stahl's shared block list
 ! Expires: 1 days
 ! Version: 13
-! Last Modified: 2016-11-02
+! Last Modified: 2017-08-16
 
 ! Politiken
 politiken.dk/static/content/js/ads.js
@@ -32,6 +32,7 @@ ing.dk###mini-panel-frontpage_top > .sidebar.panel-col-last.panel-panel > .eleme
 ing.dk###mini-panel-advertorial_zone > .advertorial-pane.has-gutter.container
 ing.dk###mini-panel-job_and_career
 ing.dk###main > .panels-onecol-clean > .colored-header.mini-panel-insights_frontpage.container.section.clearfix.panel-3col-33-stacked.panel-display
+ing.dk###mini-panel-advertorial_zone
 
 ! Jyllands-Posten
 static.jyllands-posten.dk/app/data/jp/js/aboverlay/abo.js*
