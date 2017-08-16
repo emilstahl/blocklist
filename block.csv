@@ -9,8 +9,9 @@ politiken.dk/static/content/js/ads.js
 ||politiken.dk/bruger/AdblockBlocker/?*
 
 ! Ekstra Bladet
-ekstrabladet.dk##div[style*="99799"]
 eb.dk##div[style*="99799"]
+ekstrabladet.dk##div[style*="99799"]
+ekstrabladet.dk##.pad-l--t.native-element.list-wrapper--columns.list-wrapper.list-wrapper--expandable.fnExpandContainer
 
 ! Version2
 www.version2.dk##.adblock-message-container
