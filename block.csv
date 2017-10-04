@@ -1,7 +1,7 @@
 ! Title: Stahl's shared block list
 ! Expires: 1 days
-! Version: 14
-! Last Modified: 2017-08-16
+! Version: 15
+! Last Modified: 2017-10-04
 
 ! Politiken
 politiken.dk/static/content/js/ads.js
@@ -49,3 +49,6 @@ allercdn.net/randomurl.js*
 
 ! Facebook Ads (on other websites)
 www.facebook.com/adnw_request
+ 
+# Dplay
+www.dplay.dk##.fusion-modal-bg
