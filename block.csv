@@ -1,6 +1,6 @@
 ! Title: Stahl's shared block list
 ! Expires: 1 days
-! Version: 18
+! Version: 19
 ! Last Modified: 2018-08-15
 
 ! Politiken
@@ -59,9 +59,11 @@ online.digital-advisor.com
 ! DMI
 beta.dmi.dk##.desktop-only-add.large-4.small-12.columns
 beta.dmi.dk##.add-top.add-container
-beta.dmi.dk###div.columns.small-12.medium-6.large-6:nth-of-type(1) > .section-1-ad
 beta.dmi.dk##div.columns.small-12.medium-6.large-6:nth-of-type(1)
+beta.dmi.dk###cookie-bar1
+beta.dmi.dk##.userback-button-e.userback-button
 ! Future proof..
 dmi.dk##.desktop-only-add.large-4.small-12.columns
 dmi.dk##.add-top.add-container
-dmi.dk###div.columns.small-12.medium-6.large-6:nth-of-type(1) > .section-1-ad
+dmi.dk##div.columns.small-12.medium-6.large-6:nth-of-type(1)
+dmi.dk###cookie-bar1
