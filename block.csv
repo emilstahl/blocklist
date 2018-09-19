@@ -1,7 +1,7 @@
 ! Title: Stahl's shared block list
 ! Expires: 1 days
-! Version: 19
-! Last Modified: 2018-08-15
+! Version: 20
+! Last Modified: 2018-09-10
 
 ! Politiken
 politiken.dk/static/content/js/ads.js
@@ -55,6 +55,7 @@ www.dplay.dk##.fusion-modal-bg
 
 ! Digital Advisor
 online.digital-advisor.com
+script.digitaladvisor.dk
 
 ! DMI
 beta.dmi.dk##.desktop-only-add.large-4.small-12.columns
