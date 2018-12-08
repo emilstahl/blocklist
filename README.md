@@ -1,6 +1,6 @@
 # Stahl's shared blocklist
 
-### https://cdn.jsdelivr.net/gh/emilstahl/blocklist/block.csv
-![uBlock](https://cdn.rawgit.com/emilstahl/blocklist/master/ublock.png)
+### https://raw.githubusercontent.com/emilstahl/blocklist/master/block.csv
+![uBlock](https://github.com/emilstahl/blocklist/raw/master/ublock.png)
 
 Pull requests are more than welcome!
