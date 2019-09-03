@@ -1,7 +1,7 @@
 ! Title: Stahl's shared block list
 ! Expires: 1 days
-! Version: 21
-! Last Modified: 2018-12-08
+! Version: 22
+! Last Modified: 2019-09-03
 
 ! Politiken
 politiken.dk/static/content/js/ads.js
@@ -41,30 +41,24 @@ static.jyllands-posten.dk/app/data/jp/js/aboverlay/abo.js*
 
 ! Emediate
 */emediate.js*
-ad1.emediate.dk
-ad1.emediate.se
-ad2.emediate.se
+||ad1.emediate.dk^
+||ad1.emediate.se^
+||ad2.emediate.se^
 
 ! Aller (SE og HØR)
 allercdn.net/randomurl.js*
 
 ! Facebook Ads (on other websites)
-www.facebook.com/adnw_request
+www.facebook.com/adnw_request^
  
 ! Dplay
 www.dplay.dk##.fusion-modal-bg
 
 ! Digital Advisor
-online.digital-advisor.com
-script.digitaladvisor.dk
+||online.digital-advisor.com^
+||script.digitaladvisor.dk^
 
 ! DMI
-beta.dmi.dk##.desktop-only-add.large-4.small-12.columns
-beta.dmi.dk##.add-top.add-container
-beta.dmi.dk##div.columns.small-12.medium-6.large-6:nth-of-type(1)
-beta.dmi.dk###cookie-bar1
-beta.dmi.dk##.userback-button-e.userback-button
-! Future proof..
 dmi.dk##.desktop-only-add.large-4.small-12.columns
 dmi.dk##.add-top.add-container
 dmi.dk##div.columns.small-12.medium-6.large-6:nth-of-type(1)
