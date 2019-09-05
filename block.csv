@@ -1,7 +1,7 @@
 ! Title: Stahl's shared block list
 ! Expires: 1 days
-! Version: 23
-! Last Modified: 2019-09-03
+! Version: 24
+! Last Modified: 2019-09-05
 
 ! Politiken
 politiken.dk/static/content/js/ads.js
@@ -76,3 +76,6 @@ dmi.dk###cookie-bar1
 
 ! Userback
 ##.userback-button-container
+
+! Cookie warnings/consent
+###consent-modal
